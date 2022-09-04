@@ -45,11 +45,27 @@ Following System Software’s (Programs) are written in C:
   - A source code of C language is based on building blocks. The building blocks are called functions.
   - A C program (Source Code) is a collection of one or more functions.
   <img align="center" src="./images/SourceCode.png" alt="Error 404" height="100" width="500">
- 
- In above program both main( ) and printf( ) are functions
-- main( ) is the first functions executed when our program begins to run(execute).
-- main( ) is reserved function of operating system.
-- printf( ) function causes its arguments to be printed on screen of the computer.
-- In above program argument is mentioned in double inverted comma “We always miss
-you,Dennis Ritchie” is printed on screen as output.
+  
+## Algorithms
+- Algorithm is a sequence of steps used to complete the task . or
+- Algorithm is just a detailed sequence of simple steps that are needed to solve a problem
+<b>Algorithm must satisfy following criteria or following properties or characteristics of algorithm</b>
+<br> a. It must be finite (algorithm must terminate)
+<br> b. It must be unambiguous ( Definiteness)
+<br> c. It must be executable (Non- intuitiveness)
+<br> d. It must have 0 or more input (input)
+<br> e. It must have 1 or more output (output)
+<br> f. It should be general so that it can solve any problem of a particular type for which it is
+constructed (completeness/ generally )
+<br> g. For every input instance it halts with correct output (correct)
+Conventions used in writing Algorithm:
+1. Name of algorithm:
+<br>  o Every algorithm is given a name which reflects the task performed by it.
+2. Introductory comments:
+<br>  o The task performed by algorithm is described briefly any assumption made by algorithm are
+mentioned along with variable used and data types
+3. Steps :
+<br>  o Any algorithm is made up of sequence of numbered steps. Each step is proceeded by a brief
+comment describing its function
+4. Comments are included within the body of step by enclosing them in parentheses.
 
