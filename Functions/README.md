@@ -122,3 +122,4 @@ will call itself repeatedly until the runtime stack overflows.
 <br>  Calling second function from first function and second and second function have call to
 first function, it is indirect recursion.
 - Differentiate between
+<br><br><img align="center" src="./d1.png" alt="Error 404" height="350" width="700">
