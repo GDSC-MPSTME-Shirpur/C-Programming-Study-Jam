@@ -45,3 +45,11 @@ Following System Software’s (Programs) are written in C:
   - A source code of C language is based on building blocks. The building blocks are called functions.
   - A C program (Source Code) is a collection of one or more functions.
   <img align="center" src="./images/SourceCode.png" alt="Error 404" height="100" width="500">
+ 
+ In above program both main( ) and printf( ) are functions
+- main( ) is the first functions executed when our program begins to run(execute).
+- main( ) is reserved function of operating system.
+- printf( ) function causes its arguments to be printed on screen of the computer.
+- In above program argument is mentioned in double inverted comma “We always miss
+you,Dennis Ritchie” is printed on screen as output.
+
