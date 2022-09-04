@@ -49,23 +49,23 @@ Following System Software’s (Programs) are written in C:
 ## Algorithms
 - Algorithm is a sequence of steps used to complete the task . or
 - Algorithm is just a detailed sequence of simple steps that are needed to solve a problem
-<b>Algorithm must satisfy following criteria or following properties or characteristics of algorithm</b>
-<br> a. It must be finite (algorithm must terminate)
-<br> b. It must be unambiguous ( Definiteness)
-<br> c. It must be executable (Non- intuitiveness)
-<br> d. It must have 0 or more input (input)
-<br> e. It must have 1 or more output (output)
-<br> f. It should be general so that it can solve any problem of a particular type for which it is
+Algorithm must satisfy following criteria or following properties or characteristics of algorithm
+<br> a.   It must be finite (algorithm must terminate)
+<br> b.   It must be unambiguous ( Definiteness)
+<br> c.   It must be executable (Non- intuitiveness)
+<br> d.   It must have 0 or more input (input)
+<br> e.   It must have 1 or more output (output)
+<br> f.   It should be general so that it can solve any problem of a particular type for which it is
 constructed (completeness/ generally )
-<br> g. For every input instance it halts with correct output (correct)
+<br> g.   For every input instance it halts with correct output (correct)
 Conventions used in writing Algorithm:
 1. Name of algorithm:
-<br>  o Every algorithm is given a name which reflects the task performed by it.
+<br>  o   Every algorithm is given a name which reflects the task performed by it.
 2. Introductory comments:
-<br>  o The task performed by algorithm is described briefly any assumption made by algorithm are
+<br>  o   The task performed by algorithm is described briefly any assumption made by algorithm are
 mentioned along with variable used and data types
 3. Steps :
-<br>  o Any algorithm is made up of sequence of numbered steps. Each step is proceeded by a brief
+<br>  o   Any algorithm is made up of sequence of numbered steps. Each step is proceeded by a brief
 comment describing its function
 4. Comments are included within the body of step by enclosing them in parentheses.
 
