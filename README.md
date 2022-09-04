@@ -60,12 +60,12 @@ constructed (completeness/ generally )
 <br> g.   For every input instance it halts with correct output (correct)
 Conventions used in writing Algorithm:
 1. Name of algorithm:
-<br>  o   Every algorithm is given a name which reflects the task performed by it.
+<br>  -   Every algorithm is given a name which reflects the task performed by it.
 2. Introductory comments:
-<br>  o   The task performed by algorithm is described briefly any assumption made by algorithm are
+<br>  -   The task performed by algorithm is described briefly any assumption made by algorithm are
 mentioned along with variable used and data types
 3. Steps :
-<br>  o   Any algorithm is made up of sequence of numbered steps. Each step is proceeded by a brief
+<br>  -   Any algorithm is made up of sequence of numbered steps. Each step is proceeded by a brief
 comment describing its function
 4. Comments are included within the body of step by enclosing them in parentheses.
 
