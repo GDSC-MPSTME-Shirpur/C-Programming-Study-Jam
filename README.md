@@ -50,14 +50,14 @@ Following System Software’s (Programs) are written in C:
 - Algorithm is a sequence of steps used to complete the task . or
 - Algorithm is just a detailed sequence of simple steps that are needed to solve a problem
 Algorithm must satisfy following criteria or following properties or characteristics of algorithm
-<br> a.   It must be finite (algorithm must terminate)
-<br> b.   It must be unambiguous ( Definiteness)
-<br> c.   It must be executable (Non- intuitiveness)
-<br> d.   It must have 0 or more input (input)
-<br> e.   It must have 1 or more output (output)
-<br> f.   It should be general so that it can solve any problem of a particular type for which it is
+- It must be finite (algorithm must terminate)
+- It must be unambiguous ( Definiteness)
+- It must be executable (Non- intuitiveness)
+- It must have 0 or more input (input)
+- It must have 1 or more output (output)
+- It should be general so that it can solve any problem of a particular type for which it is
 constructed (completeness/ generally )
-<br> g.   For every input instance it halts with correct output (correct)
+-   For every input instance it halts with correct output (correct)
 Conventions used in writing Algorithm:
 1. Name of algorithm:
   - Every algorithm is given a name which reflects the task performed by it.
