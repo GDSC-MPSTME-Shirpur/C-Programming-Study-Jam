@@ -44,4 +44,4 @@ Following System Software’s (Programs) are written in C:
   - Source Code is nothing but program text that we write.
   - A source code of C language is based on building blocks. The building blocks are called functions.
   - A C program (Source Code) is a collection of one or more functions.
-  <img align="center" src="./images/SourceCode.png" alt="Error 404" height="100">
+  <img align="center" src="./images/SourceCode.png" alt="Error 404" height="100" width="500">
